@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearningTask1</string>
+    <string name="tourist_attractions">Tourist Attractions</string>
+    <string name="burj_khalifa">Burj Khalifa</string>
+    <string name="central_park">Central Park</string>
+    <string name="eiffel_tower">Eiffel Tower</string>
+    <string name="great_wall">Great Wall</string>
+    <string name="niagara_falls">Niagara Falls</string>
+    <string name="taj_mahal">Taj Mahal</string>
+</resources>
